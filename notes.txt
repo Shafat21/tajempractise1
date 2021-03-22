@@ -1,0 +1,29 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Hammersmith One', sans-serif;
+font-family: 'Playfair Display', serif;
+#00e0d0
+#78758d
+
+Thin 100
+
+Thin 100 italic
+
+Light 300
+
+Light 300 italic
+
+Regular 400
+
+Regular 400 italic
+
+Medium 500
+
+Medium 500 italic
+
+Bold 700
+
+Bold 700 italic
+
+Black 900
+
+Black 900 italic
